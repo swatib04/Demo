@@ -1,0 +1,10 @@
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Infrastructure.dll.config
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Infrastructure.dll
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Infrastructure.pdb
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\EntityFramework.dll
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\EntityFramework.xml
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\SampleArchitecture.Infrastructure.csprojResolveAssemblyReference.cache
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\SampleArchitecture.Infrastructure.dll
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\SampleArchitecture.Infrastructure.pdb
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Core.dll
+E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Core.pdb

@@ -1,0 +1,5 @@
+http://www.codeproject.com/Articles/988604/Onion-architecture-using-MVC-and-database-first-ap
+
+http://www.c-sharpcorner.com/UploadFile/dhananjaycoder/step-by-step-implementing-onion-architecture-in-Asp-Net-mvc/
+
+http://jeffreypalermo.com/blog/the-onion-architecture-part-1/
