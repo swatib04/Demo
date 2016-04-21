@@ -3,3 +3,7 @@ E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Core\bin\Debug\SampleArc
 E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Core\obj\Debug\SampleArchitecture.Core.csprojResolveAssemblyReference.cache
 E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Core\obj\Debug\SampleArchitecture.Core.dll
 E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Core\obj\Debug\SampleArchitecture.Core.pdb
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Core\bin\Debug\SampleArchitecture.Core.dll
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Core\bin\Debug\SampleArchitecture.Core.pdb
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Core\obj\Debug\SampleArchitecture.Core.dll
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Core\obj\Debug\SampleArchitecture.Core.pdb

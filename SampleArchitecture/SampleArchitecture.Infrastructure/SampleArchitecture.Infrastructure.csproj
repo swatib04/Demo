@@ -53,6 +53,9 @@
     <Compile Include="Employee.cs">
       <DependentUpon>SampleEntities.tt</DependentUpon>
     </Compile>
+    <Compile Include="GetEmployees.cs">
+      <DependentUpon>SampleEntities.tt</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\EmployeeRepository.cs" />
     <Compile Include="SampleEntities.Context.cs">
@@ -72,14 +75,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.Config" />
+    <None Include="packages.config" />
     <EntityDeploy Include="SampleEntities.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>SampleEntities.Designer.cs</LastGenOutput>
     </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.Config" />
-    <None Include="packages.config" />
     <None Include="SampleEntities.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
       <DependentUpon>SampleEntities.edmx</DependentUpon>

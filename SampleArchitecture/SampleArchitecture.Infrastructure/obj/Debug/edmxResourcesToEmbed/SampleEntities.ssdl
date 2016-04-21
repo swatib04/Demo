@@ -12,4 +12,5 @@
     <Property Name="LastName" Type="nvarchar" MaxLength="50" />
     <Property Name="ManagerId" Type="int" />
   </EntityType>
+  <Function Name="GetEmployees" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
 </Schema>

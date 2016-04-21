@@ -8,3 +8,13 @@ E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug
 E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\SampleArchitecture.Infrastructure.pdb
 E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Core.dll
 E:\Swati\Practice\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Core.pdb
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\SampleArchitecture.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Infrastructure.dll.config
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Infrastructure.dll
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Infrastructure.pdb
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\EntityFramework.dll
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Core.dll
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\EntityFramework.xml
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\bin\Debug\SampleArchitecture.Core.pdb
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\SampleArchitecture.Infrastructure.dll
+D:\Aptara\Demo\SampleArchitecture\SampleArchitecture.Infrastructure\obj\Debug\SampleArchitecture.Infrastructure.pdb

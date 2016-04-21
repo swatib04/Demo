@@ -12,6 +12,9 @@ namespace SampleArchitecture.Infrastructure
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
+    using System.Data.Objects;
+    using System.Data.Objects.DataClasses;
+    using System.Linq;
     
     public partial class TestEntities : DbContext
     {
@@ -26,5 +29,10 @@ namespace SampleArchitecture.Infrastructure
         }
     
         public DbSet<Employee> Employees { get; set; }
+    
+        public virtual ObjectResult<GetEmployees> GetEmployees()
+        {
+            return ((IObjectContextAdapter)this).ObjectContext.ExecuteFunction<GetEmployees>("GetEmployees");
+        }
     }
 }

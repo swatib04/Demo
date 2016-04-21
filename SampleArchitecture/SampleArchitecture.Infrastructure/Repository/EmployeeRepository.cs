@@ -15,7 +15,7 @@ namespace SampleArchitecture.Infrastructure.Repository
         {
             _entities = new TestEntities();
             var _listEmployeesUI = new List<EmployeesUI>();
-            var _listEmployees = _entities.Employees.ToList();
+            var _listEmployees = _entities.GetEmployees().ToList();
             foreach (var employee in _listEmployees)
             {
                 _listEmployeesUI.Add(new EmployeesUI 
@@ -24,6 +24,7 @@ namespace SampleArchitecture.Infrastructure.Repository
                     , FirstName = employee.FirstName
                     , LastName = employee.LastName
                     , ManagerId = employee.ManagerId
+                    , Manager = employee.Manager
                 });
             }
             return _listEmployeesUI;

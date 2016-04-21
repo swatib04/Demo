@@ -34,5 +34,11 @@ namespace SampleArchitecture.Core.POCOClasses
             get; 
             set; 
         }
+
+        public String Manager
+        {
+            get;
+            set;
+        }
     }
 }
